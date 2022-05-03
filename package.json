@@ -1,0 +1,19 @@
+{
+  "name": "discordrandomname",
+  "version": "1.0.0",
+  "description": "Change your discord nickname to any that you would like at random",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TedMeck2/DiscordRandomName.git"
+  },
+  "author": "Howard Meck and Caleb Powell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TedMeck2/DiscordRandomName/issues"
+  },
+  "homepage": "https://github.com/TedMeck2/DiscordRandomName#readme"
+}
